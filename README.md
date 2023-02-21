@@ -15,6 +15,7 @@ https://git-scm.com/download/win
 
 Mở Windows Terminal (cmd) và gõ lệnh:
 ```pip install sphinx```
+```pip install sphinx_rtd_theme```
 
 # Bắt đầu viết tài liệu
 ## Khởi tạo cấu trúc thư mục cho hệ thống tài liệu mới
