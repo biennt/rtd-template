@@ -14,15 +14,21 @@ https://git-scm.com/download/win
 ## Cài đặt sphinx
 
 Mở Windows Terminal (cmd) và gõ lệnh:
+
 ```pip install sphinx```
+
 ```pip install sphinx_rtd_theme```
 
 # Bắt đầu viết tài liệu
 ## Khởi tạo cấu trúc thư mục cho hệ thống tài liệu mới
 Mở Windows Terminal (cmd) và gõ lệnh:
+
 ```sphinx-quickstart```
+
 ## Clone từ hệ thống tài liệu có sẵn
 ## Tạo tài liệu html
 Sau khi soạn tài liệu xong, mở Windows Terminal (cmd) và gõ lệnh:
+
 ```make html```
+
 Mở thư mục build/html để xem các file kết quả
