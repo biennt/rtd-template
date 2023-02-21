@@ -23,5 +23,5 @@ Mở Windows Terminal (cmd) và gõ lệnh:
 ## Clone từ hệ thống tài liệu có sẵn
 ## Tạo tài liệu html
 Sau khi soạn tài liệu xong, mở Windows Terminal (cmd) và gõ lệnh:
-```sphinx-build```
+```make html```
 Mở thư mục build/html để xem các file kết quả
